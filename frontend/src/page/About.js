@@ -33,7 +33,8 @@ const AboutPage = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Callisto Carlos (2211110837)</h5>
                                 <p className="card-text">
-                                    Backend Developer. Expert in Python and Flask, handling database integration and prediction APIs.
+                                    Frontend Developer & UI/UX Designer. Passionate about creating beautiful and user-friendly web
+                                    interfaces.
                                 </p>
                             </div>
                         </div>
@@ -50,44 +51,7 @@ const AboutPage = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Nadiyah Shofa Salsabila (221111320)</h5>
                                 <p className="card-text">
-                                    Fullstack Developer. Passionate about creating beautiful and user-friendly web
-                                    interfaces, Expert in Python and Flask, handling database integration and prediction APIs.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* Member 3 */}
-                    <div className="col-md-3 col-sm-6 mx-auto">
-                        <div className="card team-card text-center p-3">
-                            <img
-                                src="assets/team3.jpg"
-                                alt="Member 3"
-                                className="team-img mx-auto mt-3"
-                            />
-                            <div className="card-body">
-                                <h5 className="card-title">Cecillia Charlene (221112843)</h5>
-                                <p className="card-text">
-                                    Frontend Developer & UI/UX Designer. Passionate about creating beautiful and user-friendly web
-                                    interfaces.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* Member 2 */}
-                    <div className="col-md-3 col-sm-6 mx-auto">
-                        <div className="card team-card text-center p-3">
-                            <img
-                                src="assets/team4.jpg"
-                                alt="Member 4"
-                                className="team-img mx-auto mt-3"
-                            />
-                            <div className="card-body">
-                                <h5 className="card-title">Andrew Sachio Chiwira (221110500)</h5>
-                                <p className="card-text">
-                                    Frontend Developer & UI/UX Designer. Passionate about creating beautiful and user-friendly web
-                                    interfaces.
+                                    Backend Developer. Expert in Python and Flask, handling database integration and prediction APIs.
                                 </p>
                             </div>
                         </div>

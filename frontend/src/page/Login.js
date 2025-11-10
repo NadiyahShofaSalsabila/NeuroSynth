@@ -67,7 +67,7 @@ const LoginPage = () => {
         className="card shadow p-4"
         style={{ width: "400px", borderRadius: "1rem" }}
       >
-        <h2 className="text-center mb-4">Login NeuroSleep</h2>
+        <h2 className="text-center mb-4">Login</h2>
 
         {error && <div className="alert alert-danger text-center">{error}</div>}
 
