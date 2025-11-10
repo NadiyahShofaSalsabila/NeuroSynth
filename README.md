@@ -30,7 +30,7 @@ Teknologi yang digunakan:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/NadiyahShofaSalsabila/Kelompok4-NeuroSleep.git
+git clone https://github.com/NadiyahShofaSalsabila/NeuroSynth.git
 ```
 
 ### 2. Konfigurasi `.env`
