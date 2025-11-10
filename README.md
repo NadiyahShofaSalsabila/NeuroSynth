@@ -65,4 +65,4 @@ docker-compose up --build
 http://localhost:3000 (Silahkan akses langsung di browser anda jika sudah berhasil melakukan instalasi lokal)
 
 # Tata cara penggunaan aplikasi
-Berikut ini lampiran tatacara penggunaan aplikasi NeuroSleep: https://drive.google.com/file/d/13FBYyZUoOpxxoJcsXGtD1q3nCCWezmQ7/view?usp=sharing
+Berikut ini lampiran tatacara penggunaan aplikasi NeuroSleep: https://drive.google.com/file/d/1ta3FYe5e37UTXSY1M31ClTxBekO5HFak/view?usp=drive_link
